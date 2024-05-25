@@ -6,7 +6,7 @@
 |:----|:----|
 |ModGetAccessor|用来获取Mod一些类的不可访问的属性方法让kjs能够访问|
 |QuickModStart|阻止Mod在启动阶段频繁url请求阻止启动的继续|
-|BuilderHelper|提供自定义的Builder方法接口|
+|BuilderHelper|提供自定义的Builder方法|
 |KJS|核心Mod,用来对整合包的魔改、统一|
 
 
