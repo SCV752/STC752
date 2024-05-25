@@ -1,6 +1,15 @@
 # ScvMcData
 个人麦块魔改录
 
+## 工具
+|项目|应用|
+|:----|:----|
+|ModGetAccessor|用来获取Mod一些类的不可访问的属性方法让kjs能够访问|
+|QuickModStart|阻止Mod在启动阶段频繁url请求阻止启动的继续|
+|BuilderHelper|提供自定义的Builder方法接口|
+|KJS|核心Mod,用来对整合包的魔改、统一|
+
+
 ## PlantA
 
 - [ ] 科技树点歪的EMI
@@ -31,8 +40,8 @@
     - [ ] 浆果
       - [ ] 简单农业
     - [ ] 水果
-      - [⏳] 简单农业
-      - [⏳] 果栈丰盈
+      - [ ] 简单农业
+      - [ ] 果栈丰盈
       - [ ] 葡园酒香
   - [ ] 生存技能
     - [ ] 伐树 (配合[Panda's Falling Trees](https://www.mcmod.cn/class/10894.html))
