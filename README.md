@@ -1,7 +1,7 @@
 # ScvMcData
 个人麦块魔改录
 
-## 工具
+## Tool
 |项目|应用|
 |:----|:----|
 |ModGetAccessor|用来获取Mod一些类的不可访问的属性方法让kjs能够访问|
